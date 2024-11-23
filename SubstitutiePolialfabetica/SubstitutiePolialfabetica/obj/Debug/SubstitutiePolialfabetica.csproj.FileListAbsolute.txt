@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\bin\Debug\SubstitutiePolialfabetica.exe.config
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\bin\Debug\SubstitutiePolialfabetica.exe
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\bin\Debug\SubstitutiePolialfabetica.pdb
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\obj\Debug\SubstitutiePolialfabetica.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\obj\Debug\SubstitutiePolialfabetica.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\obj\Debug\SubstitutiePolialfabetica.exe
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitutiePolialfabetica\SubstitutiePolialfabetica\obj\Debug\SubstitutiePolialfabetica.pdb
